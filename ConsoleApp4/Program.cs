@@ -12,6 +12,12 @@ namespace ConsoleApp4
         {          
             Console.WriteLine("Hello world!");
             Console.ReadLine();
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+                
+                
         }
     }
 }
