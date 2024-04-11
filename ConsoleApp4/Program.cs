@@ -9,9 +9,9 @@ namespace ConsoleApp4
     internal class Program
     {
         static void Main(string[] args)
-        {
-            int a = 0;  
-            Console.WriteLine(a);
+        {          
+            Console.WriteLine("Hello world!");
+            Console.ReadLine();
         }
     }
 }
